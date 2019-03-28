@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="780.1147 197.6147 352.1226 321.58483" width="352.1226" height="321.58483">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-03-27 12:28:02 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_9">
+        <path d="M 858.25 309.48526 C 876.7999 309.4853 891.8376 294.44766 891.8375 275.89773 C 891.8376 257.3478 876.7999 242.31014 858.25 242.3102 C 839.7001 242.31014 824.6624 257.3478 824.6625 275.89773 C 824.6624 294.44766 839.7001 309.4853 858.25 309.48526" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 858.25 204.68577 L 929.3142 275.75 L 858.25 346.81423 L 787.1858 275.75 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 869.25 275.75 L 913.1794 319.6794 L 957.1088 275.75 L 913.1794 231.82058 Z" fill="white"/>
+      </g>
+      <g id="Line_6">
+        <line x1="827.49605" y1="276.54545" x2="929.3142" y2="276.54545" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="824.6624" y="407.6244" width="67.175144" height="67.175144" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 858.25 370 L 929.3142 441.06423 L 858.25 512.12846 L 787.1858 441.06423 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 869.25 441.06423 L 913.1794 484.99365 L 957.1088 441.06423 L 913.1794 397.1348 Z" fill="white"/>
+      </g>
+      <g id="Line_13">
+        <line x1="827.49605" y1="441.8597" x2="929.3142" y2="441.8597" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 1028.1731 309.48526 C 1046.723 309.4853 1061.7606 294.44766 1061.7606 275.89773 C 1061.7606 257.3478 1046.723 242.31014 1028.1731 242.3102 C 1009.6231 242.31014 994.5855 257.3478 994.5855 275.89773 C 994.5855 294.44766 1009.6231 309.4853 1028.1731 309.48526" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 1028.1731 204.68577 L 1099.2373 275.75 L 1028.1731 346.81423 L 957.1088 275.75 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_16">
+        <path d="M 1039.173 275.75 L 1083.1025 319.6794 L 1127.0319 275.75 L 1083.1025 231.82058 Z" fill="white"/>
+      </g>
+      <g id="Graphic_18">
+        <rect x="994.5855" y="407.6244" width="67.175144" height="67.175144" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 1028.1731 370 L 1099.2373 441.06423 L 1028.1731 512.12846 L 957.1088 441.06423 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 1039.173 441.06423 L 1083.1025 484.99365 L 1127.0319 441.06423 L 1083.1025 397.1348 Z" fill="white"/>
+      </g>
+      <g id="Line_21">
+        <line x1="997.4191" y1="441.8597" x2="1099.2373" y2="441.8597" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Line_22">
+        <line x1="1038.173" y1="464.15545" x2="1038.173" y2="417.973" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Line_17">
+        <line x1="997.4191" y1="276.54545" x2="1099.2373" y2="276.54545" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Line_23">
+        <line x1="1039.173" y1="292.80697" x2="1039.173" y2="258.69303" stroke="white" stroke-linecap="square" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
